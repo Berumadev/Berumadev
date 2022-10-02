@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Berumadev
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...<HTML>
+- 🌱 I’m currently learning ...html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... beatris.ab@hotmail 
 
